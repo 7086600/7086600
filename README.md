@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @7086600
-- 👀 I’m interested in Python.
+- 👀 I’m interested in Python
 - 🌱 I’m currently learning Career path: Data Scientist: Analytics
-- 💞️ I’m looking to collaborate on ...
+- 💞️ Looking for opportunities in data analysis and data management
 - 📫 How to reach me akutsenko.t.me
 
 <!---
