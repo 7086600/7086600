@@ -13,6 +13,7 @@ I Looking for opportunities in data analysis and data management.
 How to reach me:
  - Telegram > [akutsenko](https://akutsenko.t.me)
  - Signal > [akutsenko.91](https://bit.ly/4lNsrOr)
+ - email > 7086600@gmail.com
 
 <!---
 7086600/7086600 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
