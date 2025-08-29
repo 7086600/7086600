@@ -11,8 +11,8 @@ I am currently completing my professional studies: Data Processing Specialist: A
 I Looking for opportunities in data analysis and data management.
 
 How to reach me:
- - Telegram akutsenko.t.me
- - Signal akutsenko.91
+ - Telegram > [akutsenko](https://akutsenko.t.me)
+ - Signal > [akutsenko.91](https://bit.ly/4lNsrOr)
 
 <!---
 7086600/7086600 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
